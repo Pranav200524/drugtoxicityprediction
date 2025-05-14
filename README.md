@@ -41,9 +41,7 @@ This results in a smoother and more robust prediction score across tasks.
 
 📈 Evaluation
 
-The final performance is evaluated using the ROC-AUC score and visualized using a ROC curve:
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Roc_curve.svg" width="400"/>
+The final performance is evaluated using the ROC-AUC score and visualized using a ROC curve
 
 Run the Project
 
